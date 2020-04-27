@@ -64,4 +64,4 @@ if __name__ == '__main__':
     print(paths[-1:][0])
     print(ntpath.basename(paths[-1:][0]))
     print(sys.path[0])
-    #main(paths[-1:][0])
+    main(paths[-1:][0])
